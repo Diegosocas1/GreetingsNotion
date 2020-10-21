@@ -1,0 +1,6 @@
+if (hrs < 8 && hrs > 5)
+        greet = 'Despiertaaaaaa Diego ';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Que lo quee Diego';
+    else if (hrs >= 23 && hrs <= 5)
+        greet = 'Duermeteee Diego';
